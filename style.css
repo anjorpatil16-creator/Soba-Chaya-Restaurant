@@ -1,0 +1,70 @@
+hr{
+    margin: 80px;
+}
+
+hr.sec2{
+    margin-bottom: 10px;
+
+}
+
+.wedgewood{
+    background-color: rgb(120, 214, 230);
+    color: rgb(240, 252, 255);
+    margin-bottom: 60px;
+}
+
+h1{
+  font-family: "Trocchi", serif;
+  font-weight: 400;
+  font-style: normal;
+      
+}
+
+h1.ctext{
+    background-color: aliceblue;
+    opacity: 0.8;
+    color: black;
+}
+
+p.ctext{
+    background-color: aliceblue;
+    opacity: 0.8;
+    color: black;
+}
+
+.myflex{
+    display: flex;
+}
+
+.some-text{
+    display: inline;
+    margin-left: 0px;
+}
+
+.some-text > p{
+    font-size: 18px;
+    display: inline-block;
+    padding: 10px 80px 30px 0px;
+    
+    font-family: "Merriweather", serif;
+}
+
+.some-text > pre{
+    font-family: "Trocchi", serif;
+    font-weight: 900;
+    padding-top: 80px;
+}
+
+img.img-fluid{
+    border-radius: 50%;
+}
+
+#myCarousel{
+    width: 100%;
+}
+
+.disclaimer{
+    width: 100%;
+    text-align: center;
+    background-color: aliceblue;
+}
